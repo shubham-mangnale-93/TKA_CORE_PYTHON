@@ -1,0 +1,5 @@
+emp_name = input ("Enter your Name :")
+emp_id = input ("Enter your Id :")
+dep = input ("Enter your department :")
+salary = input ("Enter your salary :")
+print ("my name is",emp_name,"\nmy id is",emp_id,"\nmy department is",dep,"\nmy salary is",salary)

@@ -1,0 +1,5 @@
+course_name = input ("Enter your course :")
+duration = input ("Enter duration of course :")
+course_fees = input ("Enter course Fees :")
+mentor = input ("Enter name of mentor :")
+print ("Course Name :",course_name,"\nDuration :",duration,"\ndsCourse Fees :",course_fees,"\nMentor :",mentor)
