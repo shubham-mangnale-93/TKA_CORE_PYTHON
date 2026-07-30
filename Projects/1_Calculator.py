@@ -36,9 +36,11 @@ else:
 print("=" * 40)                    
 print("THANK YOU FOR USING!".center(40, " "))
 print("=" * 40)                
+#--------------------------------------------------------------------------------------------
 
-# OUTPUT: ---------->>>>
 ''''
+# OUTPUT: ---------->>>>
+
 Enter First Number: 40
 Enter Operator (+,-,*,/,%): -
 Enter Second Number: 60
