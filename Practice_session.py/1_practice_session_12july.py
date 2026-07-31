@@ -121,14 +121,12 @@ Write a Python program to:
 4. Display the updated price list
 '''
 # prices = []
-
-# # 8 products चे prices घेऊन list मध्ये टाकणे
 # for i in range(1, 9):
 #     p = float(input(f"Enter price of product {i}: "))
 #     prices.append(p)
 # print("\nOriginal price list:", prices)
 
-# # प्रत्येक price मध्ये 100 रुपये वाढवणे
+ 
 # for i in range(len(prices)):
 #     prices[i] = prices[i] + 100
 # print("Updated price list:", prices)
@@ -140,9 +138,8 @@ for i in range(1, 9):
     prices.append(p)
 print("\nOriginal price list: ",prices)
 
-# प्रत्येक price मध्ये 100 वाढवून नवीन list बनवणे
+ 
 updated_prices = []
-
 for p in prices:
     new_price = p + 100
     updated_prices.append(new_price)
