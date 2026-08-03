@@ -21,6 +21,17 @@ numbers.insert(-3,50)
 print(numbers)
 #------------------------------------------------------------------------------------
 
+# extend():--> adds multiple elements to the end of a list.
+list1 = [10, 20]
+list2 = [30, 40]
+list1.extend(list2)
+print(list1)
+
+letters = ["A"]
+letters.extend("BCD")
+print(letters)
+#------------------------------------------------------------------------------------
+
 #How to update data indexing and slicing :
 
 #indexing:
