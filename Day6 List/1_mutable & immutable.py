@@ -1,4 +1,4 @@
-#Immutable :→ Once created,t it cannot be changed direcly. A new object is created instead.
+#Immutable :→ Once created, it cannot be changed directly. A new object is created instead.
 
 institute = "the keeran academy"
 ac = institute.replace("ee","i")

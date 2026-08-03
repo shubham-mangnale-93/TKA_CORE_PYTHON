@@ -97,11 +97,9 @@ funame(v1, v2, v3)         #arguments
 
 #create a function to check number is perfect or not:---->
 
-#create a function to check number is perfect or not
-
 def check_perfect(number):
     total = 0
-    for i in range(1, number):
+    for i in range(2, number):
         if number % i == 0:
             total = total + i
     

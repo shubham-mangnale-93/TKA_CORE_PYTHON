@@ -50,7 +50,7 @@ print(name.isalnum())
 #isspace and replace
 
 course ="data analyst"
-print(course.isspace())
+print("isspace--->>",course.isspace())
 
 print(course.replace('analyst','science'))
 
