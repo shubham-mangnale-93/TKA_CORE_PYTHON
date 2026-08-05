@@ -1,5 +1,13 @@
-# A) Instance Attributes:---->>
+# A) Instance Attributes:------->>>>>>
+# Attributes are variables that store the data or properties of a class or an object.
+# :Types of Attributes:------->>>>>
+# 1) Instance Attributes → Belong to an object.
+# 2) Class Attributes → Belong to the class and are shared by all objects.
 '''
+1) Instance Attributes:--->>
+   Instance attributes are variables that belong to an object (instance). 
+   They are defined using the self keyword and each object has its own copy of these attributes.
+Syntax:--->>   
 class ClassName:
     def __init__(self, parameter1, parameter2, ...):
         self.attribute1 = parameter1
@@ -41,3 +49,5 @@ print(e2.name)
 print(e2.emp_id)
 print(e2.salary)
 print(e2.department)
+
+#------------------------------------------------------------------------------------------

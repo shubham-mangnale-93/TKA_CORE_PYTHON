@@ -80,9 +80,13 @@ numbers = [12, 45, 7, 23, 45, 89, 12, 34, 5, 67]
 # print(f'Descending order: {sorted(numbers, reverse=True)}')
 
 print("<<__Section 1 Done All Task!__>>".center(80,"-"))
+#--------------------------------------------------------------------------------------------------
 
+'''
+Section B: Logical List Tasks
+'''
 
-
+# 16.Create a new list containing the square of every number.
 
 
 
