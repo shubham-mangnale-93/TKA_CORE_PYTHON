@@ -17,6 +17,7 @@ print(products["p101"])
 # ---------------- 2. Add p101 discount price --> 10% discount ----------------
 dis_price = products["p101"]["p_price"] - (products["p101"]["p_price"] * 10/100)
 products["p101"]["dis_price"] = dis_price
+
 print("\n2. After adding p101 discount price (10% off):")
 print(products["p101"])
  
