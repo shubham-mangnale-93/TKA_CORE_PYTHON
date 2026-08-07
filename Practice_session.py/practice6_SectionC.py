@@ -4,6 +4,8 @@ Section C: String List Tasks
 students = ["Rahul", "Priya", "Amit", "Sneha", "Raj", "Anjali"]
 
 # 26. Print all student names
+# for name in students:
+#     print(name)
 print("26.", students)
 
 # 27. Print names that start with "A".

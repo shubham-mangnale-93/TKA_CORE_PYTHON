@@ -9,7 +9,6 @@ like/such as a string, list, tuple, set, or dictionary.
 #-------------------------------------------------------------------------------------------
 
 # product = {}
-
 # for i in range(3):
 #     pname = input("Enter Pname: ")
 #     mrp = eval(input("Enter MRP: "))
@@ -30,10 +29,10 @@ while cond:
      # update
 '''
 
-# num = 1
-# while num<5:
-#     print("Hello User")
-#     num = num + 1
+num = 1
+while num<5:
+    print("Hello User")
+    num = num + 1
 #-------------------------------------------------------------------------------------------
 
 # attendance = []

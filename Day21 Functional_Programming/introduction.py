@@ -1,6 +1,6 @@
 # 1] Functional Programming:-------->
 '''
-# Function :----> function is a reusable block of code.
+# Function :----> function is a reusable block of code that performs a specific task..
 # function definition
 # syntax:---->
         def frame:
@@ -10,7 +10,8 @@
 # calling
 
 # What is functional programming?
-: Functional programming in Python is a programming paradigm that treats functions as the main building blocks to solve problems. 
+: Functional programming in Python is a programming paradigm that treats functions 
+  as the main building blocks to solve problems. 
 It emphasizes:
 Writing independent functions that don't rely on or modify external state (pure functions).
 Using immutable data, meaning data cannot be changed after it is created.
@@ -107,8 +108,7 @@ def check_perfect(number):
         return True
     else:
         return False
-
-# Function call करून check करणे
+ 
 num = int(input("Enter a number: "))
 
 if check_perfect(num):
